@@ -1,0 +1,212 @@
+.lav{
+    background-color: rgb(247, 184, 238);
+}
+.div1{
+    margin:0%;
+    position:relative;
+}
+.image1{
+    height: 15rem;
+    width:100%
+}
+.h1food{
+    color: white;
+    position: absolute;
+    top:0;
+    left:38%;
+    bottom: 3%;
+    font-size: 50px;
+    text-align: center;
+}
+.prathu{
+    position: absolute;
+    bottom:30%;
+    left:50%;
+    color:white;
+}
+.nav{
+    background-color: rgb(240, 174, 98);
+    text-align: center;
+    
+width: auto;
+}
+.navul{
+    float:inline-end;
+    list-style: none;
+}
+.ul1{
+    
+}
+.ul2{
+    
+}
+.h2veg{
+    background-color: rgb(76, 194, 76);
+    text-align: center;
+    padding: 1rem;
+}
+.h2nonveg{
+    background-color: rgb(180, 26, 26);
+    text-align: center;
+    padding: 1rem;
+}
+.nveg{
+    background-color: black;
+    display:grid;
+    grid-template-columns: repeat(4,auto);
+}
+.kfcv{
+    background-color: rgb(99, 231, 132);
+    color: black;
+    padding:10px;
+    margin:1rem;
+    width:15rem;
+}
+.kfcvimg{
+    position: relative;
+    top:5%;
+    left:30%;
+   max-width:10rem;
+}
+.kfc{
+    background-color: rgb(114, 15, 15);
+    color: white;
+    padding:10px;
+    margin:1rem;
+    width:15rem;
+}
+.kfcimg{
+    position: relative;
+    top:5%;
+    left:30%;
+   max-width:10rem;
+}
+.legv{
+    background-color: rgb(99, 231, 132);
+    color: black;
+    padding:10px;
+    margin:1rem;
+    width:15rem;
+}
+.legvimg{
+    position: relative;
+    top:5%;
+    left:30%;
+   max-width:10rem;
+}
+.leg{
+    background-color: rgb(114, 15, 15);
+    color: white;
+    padding:10px;
+    margin:1rem;
+    width:15rem;
+}
+.legimg{
+    position: relative;
+    top:5%;
+    left:30%;
+   max-width:10rem;
+}
+.liverv{
+    width:15rem;
+    background-color:rgb(99, 231, 132);
+    color:black;
+    padding:10px;
+    margin:1rem;
+}
+.livervimg{
+    position: relative;
+    top:5%;
+    left:30%;
+   max-width:10rem;
+}
+.liver{
+    width:15rem;
+    background-color: rgb(114, 15, 15);
+    color: white;
+    padding:10px;
+    margin:1rem;
+}
+.liverimg{
+    position: relative;
+    top:5%;
+    left:30%;
+   max-width:10rem;
+}
+.tavav{
+    background-color: rgb(99, 231, 132);
+    color: black;
+    padding:10px;
+    margin:1rem;
+    width:15rem;
+}
+.tavavimg{
+    position: relative;
+    top:5%;
+    left:30%;
+   max-width:10rem;
+}
+.tava{
+    background-color: rgb(114, 15, 15);
+    color: white;
+    padding:10px;
+    margin:1rem;
+    width:15rem;
+}
+.tavaimg{
+    position: relative;
+    top:5%;
+    left:30%;
+   max-width:10rem;
+}
+.tikka{
+    background-color: rgb(114, 15, 15);
+    color: white;
+    padding:10px;
+    margin:1rem;
+    width:15rem;
+}
+.tikkaimg{
+    position: relative;
+    top:5%;
+    left:30%;
+   max-width:10rem;
+}
+.footer1{
+    background-color: wheat;
+    text-align: center;
+    justify-content:space-around;
+}
+@media screen and (max-width:1200px)
+{
+    .nveg
+    {
+        display:grid;
+        grid-template-columns: repeat(4,auto);
+    }
+}
+@media screen and (max-width:992px)
+{
+    .nveg{
+        
+        display:grid;
+        grid-template-columns: repeat(3,auto);
+    }
+}
+@media screen and (max-width:768px)
+{
+    .nveg{
+        
+        display:grid;
+        grid-template-columns: repeat(2,auto);
+    }
+}
+@media screen and (max-width:600px)
+{
+    .nveg{
+     
+        display:grid;
+        grid-template-columns: repeat(1,auto);
+    }
+}
+

@@ -1,12 +1,12 @@
 .lav{
-    background-color: rgb(247, 184, 238);
+    background-color: rgb(240, 191, 232);
 }
 .div1{
     margin:0%;
     position:relative;
 }
 .image1{
-    height: 15rem;
+    height: 13rem;
     width:100%
 }
 .h1food{
@@ -46,12 +46,13 @@ width: auto;
     padding: 1rem;
 }
 .h2nonveg{
-    background-color: rgb(180, 26, 26);
+    background-color: rgb(128, 71, 71);
     text-align: center;
+    color:white;
     padding: 1rem;
 }
 .nveg{
-    background-color: black;
+    background-color: rgb(240, 191, 232);
     display:grid;
     grid-template-columns: repeat(4,auto);
 }
@@ -69,7 +70,7 @@ width: auto;
    max-width:10rem;
 }
 .kfc{
-    background-color: rgb(114, 15, 15);
+    background-color: rgb(128, 71, 71);
     color: white;
     padding:10px;
     margin:1rem;
@@ -95,7 +96,7 @@ width: auto;
    max-width:10rem;
 }
 .leg{
-    background-color: rgb(114, 15, 15);
+    background-color: rgb(128, 71, 71);
     color: white;
     padding:10px;
     margin:1rem;
@@ -122,7 +123,7 @@ width: auto;
 }
 .liver{
     width:15rem;
-    background-color: rgb(114, 15, 15);
+    background-color: rgb(128, 71, 71);
     color: white;
     padding:10px;
     margin:1rem;
@@ -147,7 +148,7 @@ width: auto;
    max-width:10rem;
 }
 .tava{
-    background-color: rgb(114, 15, 15);
+    background-color: rgb(128, 71, 71);
     color: white;
     padding:10px;
     margin:1rem;
@@ -160,7 +161,7 @@ width: auto;
    max-width:10rem;
 }
 .tikka{
-    background-color: rgb(114, 15, 15);
+    background-color: rgb(128, 71, 71);
     color: white;
     padding:10px;
     margin:1rem;
